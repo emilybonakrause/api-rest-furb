@@ -1,0 +1,6 @@
+@EmilyApiFurb.Api_HostAddress = http://localhost:5197
+
+GET {{EmilyApiFurb.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,17 @@
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\bin\Debug\net8.0\EmilyApiFurb.Servicos.deps.json
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\bin\Debug\net8.0\EmilyApiFurb.Servicos.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\bin\Debug\net8.0\EmilyApiFurb.Servicos.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\bin\Debug\net8.0\EmilyApiFurb.Banco.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\bin\Debug\net8.0\EmilyApiFurb.Dominio.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\bin\Debug\net8.0\EmilyApiFurb.Banco.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\bin\Debug\net8.0\EmilyApiFurb.Dominio.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\EmilyApiFurb.Servicos.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\EmilyApiFurb.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\EmilyApiFurb.Servicos.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\EmilyApiFurb.Servicos.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\EmilyApiFurb.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\EmilyApi.194EE389.Up2Date
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\EmilyApiFurb.Servicos.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\refint\EmilyApiFurb.Servicos.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\EmilyApiFurb.Servicos.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Servicos\obj\Debug\net8.0\ref\EmilyApiFurb.Servicos.dll

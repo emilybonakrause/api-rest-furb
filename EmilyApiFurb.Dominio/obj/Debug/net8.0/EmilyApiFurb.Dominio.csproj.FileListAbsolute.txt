@@ -1,0 +1,12 @@
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\bin\Debug\net8.0\EmilyApiFurb.Dominio.deps.json
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\bin\Debug\net8.0\EmilyApiFurb.Dominio.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\bin\Debug\net8.0\EmilyApiFurb.Dominio.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\refint\EmilyApiFurb.Dominio.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\ref\EmilyApiFurb.Dominio.dll

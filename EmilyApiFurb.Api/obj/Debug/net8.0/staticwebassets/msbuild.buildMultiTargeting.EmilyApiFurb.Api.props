@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmilyApiFurb.Api.props" />
+</Project>

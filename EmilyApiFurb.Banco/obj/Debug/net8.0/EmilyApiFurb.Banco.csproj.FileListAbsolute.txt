@@ -1,0 +1,17 @@
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\bin\Debug\net8.0\EmilyApiFurb.Banco.deps.json
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\bin\Debug\net8.0\EmilyApiFurb.Banco.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\bin\Debug\net8.0\EmilyApiFurb.Banco.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\bin\Debug\net8.0\EmilyApiFurb.Dominio.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\bin\Debug\net8.0\EmilyApiFurb.Dominio.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApiFurb.Banco.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApiFurb.Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApiFurb.Banco.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApiFurb.Banco.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApiFurb.Banco.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApi.4D00404B.Up2Date
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApiFurb.Banco.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\refint\EmilyApiFurb.Banco.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApiFurb.Banco.pdb
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\ref\EmilyApiFurb.Banco.dll
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\bin\Debug\net8.0\EmilyApiFurb.Banco.runtimeconfig.json
+C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Banco\obj\Debug\net8.0\EmilyApiFurb.Banco.genruntimeconfig.cache

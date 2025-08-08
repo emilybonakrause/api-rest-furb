@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fMUg5/up1A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuário\\source\\repos\\EmilyApiFurb\\EmilyApiFurb.Dominio\\EmilyApiFurb.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
