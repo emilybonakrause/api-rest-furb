@@ -10,3 +10,16 @@ C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.
 C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\refint\EmilyApiFurb.Dominio.dll
 C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.pdb
 C:\Users\Usuário\source\repos\EmilyApiFurb\EmilyApiFurb.Dominio\obj\Debug\net8.0\ref\EmilyApiFurb.Dominio.dll
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\bin\Debug\net8.0\EmilyApiFurb.Dominio.deps.json
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\bin\Debug\net8.0\EmilyApiFurb.Dominio.dll
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\bin\Debug\net8.0\EmilyApiFurb.Dominio.pdb
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.csproj.AssemblyReference.cache
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.AssemblyInfoInputs.cache
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.AssemblyInfo.cs
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.sourcelink.json
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.dll
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\refint\EmilyApiFurb.Dominio.dll
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\EmilyApiFurb.Dominio.pdb
+C:\Users\emily\api-rest-furb\EmilyApiFurb.Dominio\obj\Debug\net8.0\ref\EmilyApiFurb.Dominio.dll

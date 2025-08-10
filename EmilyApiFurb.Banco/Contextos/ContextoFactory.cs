@@ -9,7 +9,7 @@ public class ContextoFactory : IDesignTimeDbContextFactory<Contexto>
     {
         var optionsBuilder = new DbContextOptionsBuilder<Contexto>();
         optionsBuilder.UseSqlServer(
-            "Server=DESKTOP-A471TUC;Database=EmilyFurb;Trusted_Connection=True;TrustServerCertificate=True;",
+            "Server=Emily;Database=EmilyFurb;Trusted_Connection=True;TrustServerCertificate=True;",
             sql => sql.MigrationsAssembly(
                 typeof(Contexto).Assembly.FullName
             )

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emily\\api-rest-furb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA964097-E59E-4C47-8CB7-FDC102F67D82}|EmilyApiFurb.Api\\EmilyApiFurb.Api.csproj|c:\\users\\emily\\api-rest-furb\\emilyapifurb.api\\controllers\\comandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA964097-E59E-4C47-8CB7-FDC102F67D82}|EmilyApiFurb.Api\\EmilyApiFurb.Api.csproj|solutionrelative:emilyapifurb.api\\controllers\\comandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CF6D48-DF51-4FB3-8305-8F0E530FD479}|EmilyApiFurb.Banco\\EmilyApiFurb.Banco.csproj|c:\\users\\emily\\api-rest-furb\\emilyapifurb.banco\\contextos\\contextofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CF6D48-DF51-4FB3-8305-8F0E530FD479}|EmilyApiFurb.Banco\\EmilyApiFurb.Banco.csproj|solutionrelative:emilyapifurb.banco\\contextos\\contextofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA964097-E59E-4C47-8CB7-FDC102F67D82}|EmilyApiFurb.Api\\EmilyApiFurb.Api.csproj|c:\\users\\emily\\api-rest-furb\\emilyapifurb.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA964097-E59E-4C47-8CB7-FDC102F67D82}|EmilyApiFurb.Api\\EmilyApiFurb.Api.csproj|solutionrelative:emilyapifurb.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA964097-E59E-4C47-8CB7-FDC102F67D82}|EmilyApiFurb.Api\\EmilyApiFurb.Api.csproj|c:\\users\\emily\\api-rest-furb\\emilyapifurb.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA964097-E59E-4C47-8CB7-FDC102F67D82}|EmilyApiFurb.Api\\EmilyApiFurb.Api.csproj|solutionrelative:emilyapifurb.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComandaController.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\api-rest-furb\\EmilyApiFurb.Api\\Controllers\\ComandaController.cs",
+              "RelativeDocumentMoniker": "EmilyApiFurb.Api\\Controllers\\ComandaController.cs",
+              "ToolTip": "C:\\Users\\emily\\api-rest-furb\\EmilyApiFurb.Api\\Controllers\\ComandaController.cs",
+              "RelativeToolTip": "EmilyApiFurb.Api\\Controllers\\ComandaController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:32:47.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContextoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\api-rest-furb\\EmilyApiFurb.Banco\\Contextos\\ContextoFactory.cs",
+              "RelativeDocumentMoniker": "EmilyApiFurb.Banco\\Contextos\\ContextoFactory.cs",
+              "ToolTip": "C:\\Users\\emily\\api-rest-furb\\EmilyApiFurb.Banco\\Contextos\\ContextoFactory.cs",
+              "RelativeToolTip": "EmilyApiFurb.Banco\\Contextos\\ContextoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:15:54.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emily\\api-rest-furb\\EmilyApiFurb.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EmilyApiFurb.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\emily\\api-rest-furb\\EmilyApiFurb.Api\\appsettings.json",
+              "RelativeToolTip": "EmilyApiFurb.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T16:14:33.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\emily\\api-rest-furb\\EmilyApiFurb.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmilyApiFurb.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\emily\\api-rest-furb\\EmilyApiFurb.Api\\appsettings.Development.json",
+              "RelativeToolTip": "EmilyApiFurb.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T16:14:34.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

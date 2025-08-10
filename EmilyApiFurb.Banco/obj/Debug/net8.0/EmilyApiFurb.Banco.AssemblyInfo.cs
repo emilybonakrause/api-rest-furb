@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmilyApiFurb.Banco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db14687cbaef74847d69ccb9a03f1cdef3be02d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmilyApiFurb.Banco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmilyApiFurb.Banco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

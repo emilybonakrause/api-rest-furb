@@ -12,8 +12,8 @@ using RestApiFurb.Infra.Contextos;
 namespace EmilyApiFurb.Banco.Migrations
 {
     [DbContext(typeof(Contexto))]
-    [Migration("20250808041520_Inicial1")]
-    partial class Inicial1
+    [Migration("20250810162747_Inicial")]
+    partial class Inicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
